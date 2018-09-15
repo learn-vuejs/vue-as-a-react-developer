@@ -8,3 +8,4 @@ Learn Vue as a React developer
 * [A React Point of Vue - Divya Sasidharan at VueConf.US](https://youtu.be/5TgvhATYm3Q)
 * [Switching From React To Vue.js](https://medium.com/js-dojo/switching-from-react-to-vue-js-badf34565a2d)
 * [Comparing the React and Vue Ecosystems with a Real-World SPA](https://vuejsdevelopers.com/2018/09/04/comparing-vue-and-react/)
+* [Can A Vue Template Have Multiple Root Nodes (Fragments)?](https://vuejsdevelopers.com/2018/09/11/vue-multiple-root-fragments/?jsdojo_id=fb_frg)
