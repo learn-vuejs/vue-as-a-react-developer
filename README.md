@@ -11,3 +11,4 @@ Learn Vue as a React developer
 * [Comparing the React and Vue Ecosystems with a Real-World SPA](https://vuejsdevelopers.com/2018/09/04/comparing-vue-and-react/)
 * [Can A Vue Template Have Multiple Root Nodes (Fragments)?](https://vuejsdevelopers.com/2018/09/11/vue-multiple-root-fragments/?jsdojo_id=fb_frg)
 * [I created the exact same app in React and Vue. Here are the differences.](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
+* [Anyway, this is why I prefer Vue over React](https://itnext.io/anyway-this-is-why-i-prefer-vue-over-react-ad2653595fc5)
