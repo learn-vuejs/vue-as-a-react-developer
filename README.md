@@ -13,3 +13,4 @@ Learn Vue as a React developer
 * [I created the exact same app in React and Vue. Here are the differences.](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
 * [Anyway, this is why I prefer Vue over React](https://itnext.io/anyway-this-is-why-i-prefer-vue-over-react-ad2653595fc5)
 * [Redux vs Vuex for state management in Vue.js](https://medium.com/@petarvukainovi/redux-vs-vuex-for-state-management-in-vue-js-6e171a0f55ee)
+* [Why I chose Vue.js over React](https://medium.com/@luistinygod/why-i-chose-vue-js-over-react-509ad12d7b53)
