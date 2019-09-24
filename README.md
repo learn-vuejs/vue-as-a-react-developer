@@ -19,3 +19,4 @@ Learn Vue as a React developer
 * [Implicit state sharing: React’s context API & provide/inject in Vue](https://blog.logrocket.com/implicit-state-sharing-reacts-context-api-provide-inject-in-vue-679062a50f05)
 * [Doing Vue after three years with React](https://medium.com/@omm2/doing-vue-after-three-years-with-react-3d36d53abbd6)
 * [Learning Vue as a React Developer](https://dev.to/vincentntang/learning-vue-as-a-react-developer-385l)
+* [Comparing React Hooks with Vue Composition API](https://dev.to/voluntadpear/comparing-react-hooks-with-vue-composition-api-4b32)
