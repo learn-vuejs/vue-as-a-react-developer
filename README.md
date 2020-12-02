@@ -20,3 +20,4 @@ Learn Vue as a React developer
 * [Doing Vue after three years with React](https://medium.com/@omm2/doing-vue-after-three-years-with-react-3d36d53abbd6)
 * [Learning Vue as a React Developer](https://dev.to/vincentntang/learning-vue-as-a-react-developer-385l)
 * [Comparing React Hooks with Vue Composition API](https://dev.to/voluntadpear/comparing-react-hooks-with-vue-composition-api-4b32)
+* [What Vue.js Does Better Than React](https://hswolff.com/blog/what-vuejs-does-better-than-react/)
